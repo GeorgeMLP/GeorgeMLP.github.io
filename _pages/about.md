@@ -28,4 +28,7 @@ Professional Activities
 ======
 - [Top reviewer](https://neurips.cc/Conferences/2024/ProgramCommittee), NeurIPS 2024
 - [Reviewer](https://iclr.cc/Conferences/2025/Reviewers), ICLR 2025
-- Reviewer, AISTATS 2025
+- [Reviewer](https://virtual.aistats.org/Conferences/2025/Reviewers), AISTATS 2025
+- Reviewer, ICML 2025
+- Reviewer, TMLR
+- Reviewer, NeurIPS 2025

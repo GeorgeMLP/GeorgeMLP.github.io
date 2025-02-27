@@ -40,28 +40,30 @@ Research Experience
 
 - June 2023 -- September 2023; **Baking Symmetry into GFlowNets**
 
-  I actively contributed to groundbreaking research as a member of Prof. Yoshua Bengio’s lab at Mila - Quebec AI Institute in Montréal. Leveraging my expertise in invariant networks, I was dedicated to incorporating symmetries into the graph construction process of GFlowNets. Preliminary experiments demonstrated promising performance enhancements. I submitted my paper titled *Baking Symmetry into GFlowNets* to the NeurIPS 2023 AI4Science Workshop, and it was accepted as an **oral** presentation.
+  I actively contributed to groundbreaking research as a member of Prof. Yoshua Bengio's lab at Mila - Quebec AI Institute in Montréal. Leveraging my expertise in invariant networks, I was dedicated to incorporating symmetries into the graph construction process of GFlowNets. Preliminary experiments demonstrated promising performance enhancements. I submitted my paper titled *Baking Symmetry into GFlowNets* to the NeurIPS 2023 AI4Science Workshop, and it was accepted as an **oral** presentation.
 
 - June 2023 -- May 2024; **A Canonicalization Perspective on Invariant and Equivariant Learning**
 
   I collaborated with researchers from MIT to investigate the correlation between the canonicalizability of Laplacian eigenvectors and the expressive power of invariant networks (such as SignNet and BasisNet) that employ Laplacian eigenvectors as positional encodings. We established the theoretical framework of canonicalization, and applied it to solve the open problem of the expressive power of invariant networks with equivariance constraints. We also designed novel canonicalization algorithms for eigenvectors that are superior to prior work and even optimal. Our paper was accepted in NeurIPS 2024 as a poster.
 
-- July 2024 -- Present; **Local SAEs for Context Adaptation**
+- November 2024 -- Present; **Improving Automatic Interpretation of SAE Features**
 
-  I am collaborating with MIT researchers to explore the interpretability of large language models (LLMs). In our field, we use sparse auto-encoders (SAEs) to extract features from LLMs, which helps us understand and influence their behavior. However, training SAEs is costly, as we must start from scratch for each model, layer, and dataset. Since we often focus on specific contexts (like security or coding), we aim to design "local" SAEs that adapt to different contexts without needing re-training and can be applied to any model. We are preparing this work for submission to an upcoming machine learning conference.
+  I am currently researching the interpretability of large language models (LLMs), focusing on using sparse auto-encoders (SAEs) to extract meaningful features that help us understand and influence model behavior. However, existing methods for automatically interpreting SAE features with LLMs are often inaccurate and heavily biased toward recall. In this work, we enhance SAE feature interpretation by incorporating structured explanations and a tree-based explainer. Additionally, we introduce "hard negative" sampling to mitigate recall bias in generated explanations. Finally, we conduct an empirical analysis to explore the complexity and polysemanticity of different LLM layers using SAEs.
 
 Professional Activities
 ======
 - [Top reviewer](https://neurips.cc/Conferences/2024/ProgramCommittee), NeurIPS 2024
 - [Reviewer](https://iclr.cc/Conferences/2025/Reviewers), ICLR 2025
-- Reviewer, AISTATS 2025
+- [Reviewer](https://virtual.aistats.org/Conferences/2025/Reviewers), AISTATS 2025
+- Reviewer, ICML 2025
+- Reviewer, TMLR
+- Reviewer, NeurIPS 2025
 
 Awards
 ======
 
 - Provincial First Prize of National Mathematics Olympiad in Senior
 - Second Prize of the Chinese Mathematics Competitions
-- Successful Participant of the Mathematical Contest in Modeling
 - Top 10 Excellent Graduation Thesis of School of EECS, Peking University
 - Excellent Graduation Thesis, Peking University
 
