@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My name is George Ma (Jiangyan Ma). I am an EECS PhD student at UC Berkeley, advised by Prof. [Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/). Previously, I was an undergraduate student at Peking University, where I did research on graph learning at Prof. [Yisen Wang](https://yisenwang.github.io/)'s lab. My email: [georgem@stu.pku.edu.cn](mailto:georgem@stu.pku.edu.cn). My homepage: [George Ma's Homepage](https://georgemlp.github.io). I actively write blogs on Zhihu: [George M's Zhihu Homepage](https://www.zhihu.com/people/george-m-55/posts).
+My name is George Ma (Jiangyan Ma). I am an EECS PhD student at UC Berkeley, advised by Prof. [Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/). Previously, I was an undergraduate student at Peking University, where I did research on graph learning at Prof. [Yisen Wang](https://yisenwang.github.io/)'s lab. My email: [george_ma@berkeley.edu](mailto:george_ma@berkeley.edu). My homepage: [George Ma's Homepage](https://georgemlp.github.io). I actively write blogs on Zhihu: [George M's Zhihu Homepage](https://www.zhihu.com/people/george-m-55/posts).
 
 Education
 ======
