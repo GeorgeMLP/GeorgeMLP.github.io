@@ -1,0 +1,11 @@
+---
+title: "SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion"
+collection: preprints
+permalink: /preprint/2025-10-20-specagent
+excerpt: 'SpecAgent proactively explores software repositories at indexing time to build speculative context that eliminates inference-time retrieval latency, improves LLM code-generation accuracy by up to 11% absolute, and introduces a new leakage-free benchmark construction method for realistic evaluation.'
+date: 2025-10-20
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/abs/2510.17925'
+citation: 'George Ma, Anurag Koul, Qi Chen, Yawen Wu, Sachit Kuhar, Yu Yu, Aritra Sengupta, Varun Kumar, Murali Krishna Ramanathan (2025). SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion. <i>arXiv preprint arXiv:2510.17925</i>.'
+---
+Large Language Models (LLMs) excel at code-related tasks but often struggle in realistic software repositories, where project-specific APIs and cross-file dependencies are crucial. Retrieval-augmented methods mitigate this by injecting repository context at inference time. The low inference-time latency budget affects either retrieval quality or the added latency adversely impacts user experience. We address this limitation with SpecAgent, an agent that improves both latency and code-generation quality by proactively exploring repository files during indexing and constructing speculative context that anticipates future edits in each file. This indexing-time asynchrony allows thorough context computation, masking latency, and the speculative nature of the context improves code-generation quality. Additionally, we identify the problem of future context leakage in existing benchmarks, which can inflate reported performance. To address this, we construct a synthetic, leakage-free benchmark that enables a more realistic evaluation of our agent against baselines. Experiments show that SpecAgent consistently achieves absolute gains of 9-11% (48-58% relative) compared to the best-performing baselines, while significantly reducing inference latency.

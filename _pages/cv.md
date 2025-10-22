@@ -27,6 +27,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Preprints
+======
+  <ul>{% for post in site.preprints reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Research Experience
 ======
 

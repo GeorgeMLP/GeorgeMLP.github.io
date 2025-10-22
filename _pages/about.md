@@ -24,6 +24,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Preprints
+======
+  <ul>{% for post in site.preprints reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Professional Activities
 ======
 - [Top reviewer](https://neurips.cc/Conferences/2024/ProgramCommittee), NeurIPS 2024
