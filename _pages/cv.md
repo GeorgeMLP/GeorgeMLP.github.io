@@ -38,7 +38,7 @@ Research Experience
 
 - May 2025 -- Sep 2025; **SpecAgent for Code Completion**
 
-  Proposed *SpecAgent*, an indexing-time retrieval agent that anticipates future edits in code repositories to reduce inference-time latency. Designed a leakage-free benchmark to avoid future context leakage and provide more realistic evaluation. Experiments demonstrated 9–11% absolute improvements in code completion performance.
+  Interned at Amazon and proposed *SpecAgent*, an indexing-time retrieval agent that anticipates future edits in code repositories to reduce inference-time latency. Designed a leakage-free benchmark to avoid future context leakage and provide more realistic evaluation. Experiments demonstrated 9–11% absolute improvements in code completion performance.
 
 - Nov 2024 -- May 2025; **Revising SAE Feature Explanations**
 
@@ -59,6 +59,12 @@ Research Experience
 - Oct 2022 -- Aug 2023; **Laplacian Canonization for GNNs**
 
   Explored Laplacian eigenvectors as universal graph positional encodings, which suffer from sign and basis ambiguity. Proposed *Laplacian Canonization*, a preprocessing algorithm that resolves these ambiguities. The work was published as a poster at NeurIPS 2023.
+
+Internship Experience
+======
+
+- May 2025 -- Aug 2025; Amazon Web Services
+- Jun 2023 -- Sep 2023; Mila - Quebec AI Institute
 
 Professional Activities
 ======
