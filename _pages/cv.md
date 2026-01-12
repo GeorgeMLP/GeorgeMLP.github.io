@@ -36,6 +36,10 @@ Preprints
 Research Experience
 ======
 
+- Dec 2025 -- Jan 2026; **Evaluating Reasoning Features in Sparse Autoencoders**
+
+  Studied whether sparse autoencoders (SAEs) isolate genuine reasoning features in large language models. Developed a falsification-based evaluation framework combining causal token injection, LLM-guided counterexample generation, and steering experiments. Conducted large-scale analysis across multiple models, layers, and reasoning datasets, finding that features identified by contrastive methods are predominantly explained by linguistic confounds rather than reasoning computations.
+
 - May 2025 -- Sep 2025; **SpecAgent for Code Completion**
 
   Interned at Amazon and proposed *SpecAgent*, an indexing-time retrieval agent that anticipates future edits in code repositories to reduce inference-time latency. Designed a leakage-free benchmark to avoid future context leakage and provide more realistic evaluation. Experiments demonstrated 9–11% absolute improvements in code completion performance.
@@ -71,8 +75,9 @@ Professional Activities
 - [Top reviewer](https://neurips.cc/Conferences/2024/ProgramCommittee), NeurIPS 2024
 - [Reviewer](https://iclr.cc/Conferences/2025/Reviewers), ICLR 2025
 - [Reviewer](https://virtual.aistats.org/Conferences/2025/Reviewers), AISTATS 2025
-- [Reviewer](https://icml.cc/Conferences/2025/ProgramCommittee#top-reviewer), ICML 2025
+- [Reviewer](https://icml.cc/Conferences/2025/ProgramCommittee), ICML 2025
 - [Reviewer](https://neurips.cc/Conferences/2025/ProgramCommittee), NeurIPS 2025
+- [Reviewer](https://icml.cc/Conferences/2026/ProgramCommittee), ICML 2026
 - Reviewer, TMLR
 
 Awards
