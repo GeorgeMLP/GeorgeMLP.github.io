@@ -1,0 +1,11 @@
+---
+title: "Do Sparse Autoencoders Identify Reasoning Features in Language Models?"
+collection: preprints
+permalink: /preprint/2026-01-11-sae-reasoning-features
+excerpt: 'We show that sparse autoencoder features selected by contrastive methods for reasoning tasks are largely sensitive to token-level and linguistic regularities, casting doubt on their interpretation as genuine reasoning features.'
+date: 2026-01-11
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/abs/2601.05679'
+citation: 'George Ma, Zhongyuan Liang, Irene Y. Chen, Somayeh Sojoudi (2026). Do Sparse Autoencoders Identify Reasoning Features in Language Models? <i>arXiv preprint arXiv:2601.05679</i>.'
+---
+We investigate whether sparse autoencoders (SAEs) identify genuine reasoning features in large language models (LLMs). Starting from features selected using standard contrastive activation methods, we introduce a falsification-oriented framework that combines causal token injection experiments and LLM-guided falsification to test whether feature activation reflects reasoning processes or superficial linguistic correlates. Across 20 configurations spanning multiple model families, layers, and reasoning datasets, we find that identified reasoning features are highly sensitive to token-level interventions. Injecting a small number of feature-associated tokens into non-reasoning text is sufficient to elicit strong activation for 59% to 94% of features, indicating reliance on lexical artifacts. For the remaining features that are not explained by simple token triggers, LLM-guided falsification consistently produces non-reasoning inputs that activate the feature and reasoning inputs that do not, with no analyzed feature satisfying our criteria for genuine reasoning behavior. Steering these features yields minimal changes or slight degradations in benchmark performance. Together, these results suggest that SAE features identified by contrastive approaches primarily capture linguistic correlates of reasoning rather than the underlying reasoning computations themselves.
