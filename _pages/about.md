@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is George Ma (Jiangyan Ma). I am an EECS PhD student at UC Berkeley, advised by Prof. [Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/). Previously, I was an undergraduate student at Peking University, where I did research on graph learning at Prof. [Yisen Wang](https://yisenwang.github.io/)'s lab. My email: [george_ma@berkeley.edu](mailto:george_ma@berkeley.edu). My CV: [George Ma's CV](https://georgemlp.github.io/cv). I actively write blogs on Zhihu: [George M's Zhihu Homepage](https://www.zhihu.com/people/george-m-55/posts).
+My name is George Ma. I am an EECS PhD student at UC Berkeley, advised by Prof. [Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/). Previously, I was an undergraduate student at Peking University, where I did research on graph learning at Prof. [Yisen Wang](https://yisenwang.github.io/)'s lab. My email: [george_ma@berkeley.edu](mailto:george_ma@berkeley.edu). My CV: [George Ma's CV](https://georgemlp.github.io/cv). I actively write blogs on Zhihu: [George M's Zhihu Homepage](https://www.zhihu.com/people/george-m-55/posts).
 
 Research Interests
 ======
 
 - Mechanistic Interpretability
 - Code Generation
+- Reinforcement Learning & Robotics
 - Graph Neural Networks
 - Invariant and Equivariant Neural Networks
 
