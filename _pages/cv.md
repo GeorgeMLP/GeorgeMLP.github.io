@@ -42,7 +42,7 @@ Research Experience
 
 - May 2025 -- Sep 2025; **SpecAgent for Code Completion**
 
-  Interned at Amazon and proposed *SpecAgent*, an indexing-time retrieval agent that anticipates future edits in code repositories to reduce inference-time latency. Designed a leakage-free benchmark to avoid future context leakage and provide more realistic evaluation. Experiments demonstrated 9–11% absolute improvements in code completion performance.
+  Interned at Amazon and proposed *SpecAgent*, an indexing-time retrieval agent that anticipates future edits in code repositories to reduce inference-time latency. Designed a leakage-free benchmark to avoid future context leakage and provide more realistic evaluation. Experiments demonstrated 9–11% absolute improvements in code completion performance. This work was accepted at ACL 2026 main conference.
 
 - Nov 2024 -- May 2025; **Revising SAE Feature Explanations**
 

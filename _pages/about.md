@@ -33,6 +33,7 @@ Preprints
 
 Professional Activities
 ======
+- [Reviewer](https://icml.cc/Conferences/2026/ProgramCommittee), ICML 2026
 - [Top reviewer](https://neurips.cc/Conferences/2024/ProgramCommittee), NeurIPS 2024
 - [Reviewer](https://iclr.cc/Conferences/2025/Reviewers), ICLR 2025
 - [Reviewer](https://virtual.aistats.org/Conferences/2025/Reviewers), AISTATS 2025
