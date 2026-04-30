@@ -33,6 +33,14 @@ Preprints
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Internship Experience
+======
+
+- Aug 2026 -- Nov 2026; Microsoft
+- May 2026 -- Aug 2026; Amazon Web Services
+- May 2025 -- Aug 2025; Amazon Web Services
+- Jun 2023 -- Sep 2023; Mila - Quebec AI Institute
+
 Research Experience
 ======
 
@@ -64,12 +72,6 @@ Research Experience
 
   Explored Laplacian eigenvectors as universal graph positional encodings, which suffer from sign and basis ambiguity. Proposed *Laplacian Canonization*, a preprocessing algorithm that resolves these ambiguities. The work was published as a poster at NeurIPS 2023.
 
-Internship Experience
-======
-
-- May 2025 -- Aug 2025; Amazon Web Services
-- Jun 2023 -- Sep 2023; Mila - Quebec AI Institute
-
 Professional Activities
 ======
 - [Top reviewer](https://neurips.cc/Conferences/2024/ProgramCommittee), NeurIPS 2024
@@ -78,6 +80,7 @@ Professional Activities
 - [Reviewer](https://icml.cc/Conferences/2025/ProgramCommittee), ICML 2025
 - [Reviewer](https://neurips.cc/Conferences/2025/ProgramCommittee), NeurIPS 2025
 - [Reviewer](https://icml.cc/Conferences/2026/ProgramCommittee), ICML 2026
+- [Reviewer](https://neurips.cc/Conferences/2026/ProgramCommittee), NeurIPS 2026
 - Reviewer, TMLR
 
 Awards

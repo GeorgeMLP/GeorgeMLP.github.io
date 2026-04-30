@@ -40,4 +40,5 @@ Professional Activities
 - [Reviewer](https://icml.cc/Conferences/2025/ProgramCommittee), ICML 2025
 - [Reviewer](https://neurips.cc/Conferences/2025/ProgramCommittee), NeurIPS 2025
 - [Reviewer](https://icml.cc/Conferences/2026/ProgramCommittee), ICML 2026
+- [Reviewer](https://neurips.cc/Conferences/2026/ProgramCommittee), NeurIPS 2026
 - Reviewer, TMLR
