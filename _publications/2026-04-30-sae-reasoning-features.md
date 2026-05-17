@@ -1,11 +1,11 @@
 ---
-title: "Falsifying Sparse Autoencoder Reasoning Features in Language Models"
+title: "Do Sparse Autoencoders Identify Reasoning Features in Language Models?"
 collection: publications
 permalink: /publications/2026-04-30-sae-reasoning-features
 excerpt: 'Sparsity-biased SAEs tend to latch onto low-dimensional cue tokens that co-occur with reasoning, and we find most contrastive "reasoning features" are largely explainable by such cues rather than robust reasoning signals.'
 date: 2026-04-30
 venue: 'ICML'
 paperurl: 'https://openreview.net/forum?id=TCFtA9CI3U'
-citation: 'George Ma, Zhongyuan Liang, Irene Y. Chen, Somayeh Sojoudi (2026). Falsifying Sparse Autoencoder Reasoning Features in Language Models. In <i>Forty-Third International Conference on Machine Learning</i>.'
+citation: 'George Ma, Zhongyuan Liang, Irene Y. Chen, Somayeh Sojoudi (2026). Do Sparse Autoencoders Identify Reasoning Features in Language Models? In <i>Forty-Third International Conference on Machine Learning</i>.'
 ---
 We study how reliably sparse autoencoders (SAEs) support claims about reasoning-related internal features in large language models. We first give a stylized analysis showing that sparsity-regularized decoding can preferentially retain stable low-dimensional correlates while suppressing high-dimensional within-behavior variation, motivating the possibility that contrastively selected "reasoning" features may concentrate on cue-like structure when such cues are coupled with reasoning traces. Building on this perspective, we propose a falsification-based evaluation framework that combines causal token injection with LLM-guided counterexample construction. Across 22 configurations spanning multiple model families, layers, and reasoning datasets, we find that many contrastively selected candidates are highly sensitive to token-level interventions, with 45%–90% activating after injecting only a few associated tokens into non-reasoning text. For the remaining context-dependent candidates, LLM-guided falsification produces targeted non-reasoning inputs that trigger activation and meaning-preserving paraphrases of top-activating reasoning traces that suppress it. A small steering study yields minimal changes on the evaluated benchmarks. Overall, our results suggest that, in the settings we study, sparse decompositions can favor low-dimensional correlates that co-occur with reasoning, underscoring the need for falsification when attributing high-level behaviors to individual SAE features.

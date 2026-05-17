@@ -14,7 +14,7 @@ Research Interests
 ======
 
 - Mechanistic Interpretability
-- Code Generation
+- Coding Agents
 - Reinforcement Learning & Robotics
 - Graph Neural Networks
 - Invariant and Equivariant Neural Networks
