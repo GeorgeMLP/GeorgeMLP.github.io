@@ -13,9 +13,9 @@ My name is George Ma. I am an EECS PhD candidate at UC Berkeley, advised by Prof
 Research Interests
 ======
 
-- Mechanistic Interpretability
-- Coding Agents
+- Coding Agents & Agentic RL
 - Reinforcement Learning & Robotics
+- Mechanistic Interpretability
 - Graph Neural Networks
 - Invariant and Equivariant Neural Networks
 
@@ -35,6 +35,7 @@ Professional Activities
 ======
 - [Gold Reviewer](https://icml.cc/Conferences/2026/ProgramCommittee), ICML 2026
 - [Top reviewer](https://neurips.cc/Conferences/2024/ProgramCommittee), NeurIPS 2024
+- [Reviewer](https://aaai.org/conference/aaai/aaai-27/2027-program-committee), AAAI 2027
 - [Reviewer](https://neurips.cc/Conferences/2026/ProgramCommittee), NeurIPS 2026
 - [Reviewer](https://neurips.cc/Conferences/2025/ProgramCommittee), NeurIPS 2025
 - [Reviewer](https://icml.cc/Conferences/2025/ProgramCommittee), ICML 2025
