@@ -44,9 +44,17 @@ Internship Experience
 Research Experience
 ======
 
+- Aug 2026 -- Nov 2026; **Long-Horizon Agentic Reinforcement Learning**
+
+  Interned at Microsoft and studied how coding agents can learn from the long-term consequences of their decisions. Constructed a dataset of related software engineering tasks where earlier code changes affect later tasks. Developed and compared reinforcement learning algorithms to improve agents' performance across multiple tasks, and evaluated their generalization on independent benchmarks.
+
+- May 2026 -- Aug 2026; **Formal Verification for Coding Agents**
+
+  Interned at Amazon and studied how to improve the correctness of AI-generated code beyond conventional testing. Developed *SWE-Proof*, a benchmark of 500 real-world software engineering tasks evaluated using formal verification, and *Verifier-Grounded Agentic RL*, a method that trains coding agents using feedback from program verifiers. Experiments demonstrated substantial improvements in code correctness and issue resolution.
+
 - Dec 2025 -- Jan 2026; **Evaluating Reasoning Features in Sparse Autoencoders**
 
-  Studied whether sparse autoencoders (SAEs) isolate genuine reasoning features in large language models. Developed a falsification-based evaluation framework combining causal token injection, LLM-guided counterexample generation, and steering experiments. Conducted large-scale analysis across multiple models, layers, and reasoning datasets, finding that features identified by contrastive methods are predominantly explained by linguistic confounds rather than reasoning computations.
+  Studied whether sparse autoencoders (SAEs) isolate genuine reasoning features in large language models. Developed a falsification-based evaluation framework combining causal token injection, LLM-guided counterexample generation, and steering experiments. Conducted large-scale analysis across multiple models, layers, and reasoning datasets, finding that features identified by contrastive methods are predominantly explained by linguistic confounds rather than reasoning computations. The paper was accepted at ICML 2026.
 
 - May 2025 -- Sep 2025; **SpecAgent for Code Completion**
 
